@@ -1,4 +1,5 @@
-## Hi there 👋
+## Wellkome to my repository! ![MuaKissGIF](https://github.com/user-attachments/assets/849b19bd-c0d4-4c5e-b587-3c7eba020304)
+
 
 <!--
 **Tiguer04/Tiguer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
