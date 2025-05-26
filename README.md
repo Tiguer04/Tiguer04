@@ -1,7 +1,7 @@
 # Welcome to my repository! || Willkommen in meinem Repository!✌️
 ## 🔻 Technologies || Technologien 🔻
 
-<img src="./html-5.png" alt="html-logo" width="50"/>
+<img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/>
 
 
 <!--
