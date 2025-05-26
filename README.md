@@ -3,7 +3,7 @@
 <img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/> <img src="./js.png" alt="js-logo" width="50"/>
 
 ### 🟡 My first proyect `learning programming` --> [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas).
-####<p align="right"> ✪ *always learning something new* ✪ </p>
+<p align="right"> ✪ *always learning something new* ✪ </p>
 <!--
 **Tiguer04/Tiguer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
