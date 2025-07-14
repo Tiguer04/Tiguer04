@@ -1,6 +1,7 @@
 # ✯ Welcome to my repository! ✯
 ##   🔻  *Technologies*  🔻
-<img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/> <img src="./js.png" alt="js-logo" width="50"/>
+<img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/> <img src="./js.png" alt="js-logo" width="50"/> <img width="50" alt="tsc" src="https://github.com/user-attachments/assets/ba232398-02c3-4720-b475-e2c787d13419" />
+
 
 ### 🔴 My first proyect using TypeScript ➡ [CONECT 4](https://github.com/Tiguer04/CONECTA-4).
 ### 🟡 My first proyect `learning programming` ➡ [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas).
