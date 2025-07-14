@@ -2,7 +2,7 @@
 ##   🔻  *Technologies*  🔻
 <img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/> <img src="./js.png" alt="js-logo" width="50"/>
 
-### 🔴 My first proyect using TypeScript ➡ [CONECT 4](https://github.com/Tiguer04/CONECTA-4)
+### 🔴 My first proyect using TypeScript ➡ [CONECT 4](https://github.com/Tiguer04/CONECTA-4).
 ### 🟡 My first proyect `learning programming` ➡ [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas).
 ### 🎮 ROCK - PAPER - SCISSORS GAME ➡ [Let's play!](https://github.com/Tiguer04/Rock-Paper-Scissors).
 <p align="right"><em> ✪ always learning something new ✪ </em></p>
