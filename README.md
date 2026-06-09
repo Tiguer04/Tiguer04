@@ -32,25 +32,30 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
+#### Testing
+<p>
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"/>
+</p>
+
 #### DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman"/>
 </p>
 
 ---
- 
-### 📌 Featured Projects
-
-- **DummyJSON CRUD** ➡️ [Check it out!](https://github.com/Tiguer04/DummyJSON-CRUD)
-- **Connect 4** ➡️ [Enjoy it!](https://github.com/Tiguer04/CONECTA-4)
-- **Journal Trading Project** ➡️ [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas)
-- **Rock, paper, scissors game** ➡️ [Let's play!](https://github.com/Tiguer04/Rock-Paper-Scissors)
----
 
 <div align="left">
   <img height="193em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
   <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
 </div>
+
+---
+
+### 📌 Featured Projects
+
+> Don't forget to check out my pinned repositories below! 👇
+
+
 <!--
 **Tiguer04/Tiguer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
