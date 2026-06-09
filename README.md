@@ -10,9 +10,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiguer04&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tiguer04&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiguer04&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
+</div>
 
 <!--
 **Tiguer04/Tiguer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
