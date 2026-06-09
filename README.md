@@ -9,8 +9,8 @@
 <p align="right"><em> ✪ always learning something new ✪ </em></p>
 
 <div align="left">
-  <img height="190em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
+  <img height="195em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
 </div>
 
 <!--
