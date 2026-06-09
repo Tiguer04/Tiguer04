@@ -1,18 +1,56 @@
-# ✯ Welcome to my repository! ✯
-##   🔻  *Technologies*  🔻
-<img src="./html-5.png" alt="html-logo" width="50"/> <img src="./css-3.png" alt="css-logo" width="50"/> <img src="./js.png" alt="js-logo" width="50"/>  <img width="50" alt="tsc" src="https://github.com/user-attachments/assets/ba232398-02c3-4720-b475-e2c787d13419" />
+<h1 align="center"><em> "The expert in anything was once a beginner"</em></h1>
+<h3 align="center">Miguel Ángel Cárdenas Hernández</h3>
+<p align="center">
+  From database to UI, I care about every layer of the stack.
+</p>
 
+---
+ 
+### 🧑‍💻 About me
+ 
+- 🎓 Currently studying Software Development
+- 🚀 I enjoy building web apps from scratch — frontend to backend
+- 🐳 I work with Docker to containerize and deploy my projects
+- 🌐 I've deployed applications on **Railway**, **Render** and used cloud databases on **Aiven**
+- 📬 Contact me: trustedx12@gmail.com
+---
+ 
+### 🛠️ Technologies & Tools
+ 
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java"/>
+</p>
 
-### 🔴 My first proyect using TypeScript ➡ [CONECT 4](https://github.com/Tiguer04/CONECTA-4).
-### 🟡 My first proyect `learning programming` ➡ [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas).
-### 🎮 ROCK - PAPER - SCISSORS GAME ➡ [Let's play!](https://github.com/Tiguer04/Rock-Paper-Scissors).
-<p align="right"><em> ✪ always learning something new ✪ </em></p>
+#### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+</p>
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman"/>
+</p>
+
+---
+ 
+### 📌 Featured Projects
+
+- **DummyJSON CRUD** ➡️ [Check it out!](https://github.com/Tiguer04/DummyJSON-CRUD)
+- **Connect 4** ➡️ [Enjoy it!](https://github.com/Tiguer04/CONECTA-4)
+- **Journal Trading Project** ➡️ [Take a look](https://github.com/Tiguer04/p-grafico-de-lineas)
+- **Rock, paper, scissors game** ➡️ [Let's play!](https://github.com/Tiguer04/Rock-Paper-Scissors)
+---
 
 <div align="left">
   <img height="193em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
   <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
 </div>
-
 <!--
 **Tiguer04/Tiguer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
