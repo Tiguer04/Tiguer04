@@ -8,11 +8,10 @@
 ### 🎮 ROCK - PAPER - SCISSORS GAME ➡ [Let's play!](https://github.com/Tiguer04/Rock-Paper-Scissors).
 <p align="right"><em> ✪ always learning something new ✪ </em></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiguer04&show_icons=true&theme=dark)
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiguer04&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiguer04&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiguer04&show_icons=true&theme=dark" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Tiguer04&theme=dark" />
 </div>
 
 <!--
